@@ -1,0 +1,55 @@
+
+Created by Ht-code on 11/24/2020.
+Copyright (c) 2020 Copyright Holder. All rights reserved.
+
+body{
+	margin:0;
+	padding:0;
+	
+}
+
+
+div{
+	background-color: #c6c5c6;
+	width:80%;
+	margin: 0 auto;
+}
+
+.input_h3{
+	color:blue;
+	font-size: 1.4em;
+}
+
+form{
+	width: 90%;
+	margin: 0 auto;
+	
+}
+
+input[type=text], [type=date], [type=email], [type=password] {
+	width:100%;
+	padding:10px 8px;
+	margin: 4px;
+	display: inline-block;
+	border: 0.6em white;
+	border-radius: 6px;
+	margin: 2px auto;
+	font-size: 1.5em;
+	font-weight: 600;
+	color: purple;
+}
+input[checkbox] {
+	width:100%;
+}
+
+input[type=submit] {
+	width: 100%;
+	padding: 22px 18px;
+	border-radius: 12px;
+	font-size: 1.5em;
+	font-weight:550;
+	color: white;
+	background-color: blue;
+	margin-bottom: 20px;
+}
+
